@@ -8,6 +8,6 @@ Official PyTorch implementation of *Image-to-Image Bayesian Flow Networks with S
 
 ******************************************************
 <div align="center">
-    <img src="assets/intro-pic2.png" width="720">
+    <img src="assets/intro-pic2.jpg" width="720">
 </div>
 Outputs of our proposed I2I-BFN for various image-to-image translation tasks. I2I-BFN is a general-purpose framework capable of producing high-quality and faithful generations across a variety of tasks.
